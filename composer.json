@@ -11,5 +11,7 @@
             "name": "John Doe Pirate",
             "role": "Developer"
         }
-    ]
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable" : false
 }
